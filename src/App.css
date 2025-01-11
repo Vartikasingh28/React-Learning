@@ -1,0 +1,26 @@
+/* #root{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo{
+  height: 6rem;
+  padding: 1.5rem;
+  will-change: filter;
+  transition: filter 300ms;
+  -webkit-transition: filter 300ms;
+  -moz-transition: filter 300ms;
+  -ms-transition: filter 300ms;
+  -o-transition: filter 300ms;
+}
+
+.logo:hover{
+  filter: drop-shadow(0 0 2em #646cffaa);
+  -webkit-filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover{
+    filter: drop-shadow(0 0 2em #61dafbaa);
+    -webkit-filter: drop-shadow(0 0 2em #61dafbaa);
+} */
